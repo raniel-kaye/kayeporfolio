@@ -1,0 +1,22 @@
+{
+  "name": "kayeporfolio",
+  "version": "1.0.0",
+  "description": "my eportfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raniel-kaye/kayeporfolio.git"
+  },
+  "author": "ranielkaye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raniel-kaye/kayeporfolio/issues"
+  },
+  "homepage": "https://github.com/raniel-kaye/kayeporfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
